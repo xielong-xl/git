@@ -1,0 +1,12 @@
+*{
+	margin: 0 auto;
+	text-align: center;
+}
+ul li{
+	list-style: none;
+	float: left;
+	padding-left: 30px;
+}
+ul{
+	margin-left: 45%;
+}
