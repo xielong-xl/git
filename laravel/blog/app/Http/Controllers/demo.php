@@ -223,7 +223,10 @@ class demo extends Controller
         $obj->all();
         echo $obj->toSql(); //在模型中输出sql语句
      }
-    
+    public function models2()
+    {
+      echo 123;
+    }
 
 
 }
